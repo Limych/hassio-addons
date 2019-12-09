@@ -12,6 +12,7 @@
     "armv7",
     "i386"
   ],
+  "image": "limych/hassio-presence-monitor",
   "boot": "auto",
   "host_network": true,
   "host_dbus": true,
