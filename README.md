@@ -1,1 +1,1 @@
-# hassio-add-ons
+# hassio-addons
