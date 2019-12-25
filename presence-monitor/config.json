@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "slug": "presence-monitor",
   "description": "Passive Bluetooth presence detection of beacons, cell phones, and other Bluetooth devices.",
-  "url": "https://github.com/Limych/addon-presence-monitor",
+  "url": "https://github.com/Limych/hassio-addons/presence-monitor",
+  "image": "limych/hassio-presence-monitor-{arch}",
   "startup": "services",
   "arch": [
     "aarch64",
@@ -12,12 +13,50 @@
     "armv7",
     "i386"
   ],
-  "image": "limych/hassio-presence-monitor-{arch}",
   "boot": "auto",
   "host_network": true,
-  "host_dbus": true,
+  "privileged": [
+    "NET_ADMIN"
+  ],
+  "map": [
+    "ssl"
+  ],
   "options": {
+    "mqtt": {
+      "broker": "127.0.0.1",
+      "port": 1883,
+      "username": null,
+      "password": null,
+      "topic_root": "/presence",
+      "publisher": "",
+      "certfile": "",
+      "version": ""
+    },
+    "known": {
+      "beacons": [
+      ],
+      "static": [
+      ]
+    },
+    "blacklist": [
+    ]
   },
   "schema": {
+    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "mqtt": {
+      "broker": "str",
+      "port": "port",
+      "username": "str",
+      "password": "str",
+      "topic_root": "str",
+      "publisher": "str",
+      "certfile": "str",
+      "version": "str"
+    },
+    "known": {
+      "beacons": ["match(^[0-9a-fA-F]{2}(:[0-9a-fA-F]{2}){5}\\s+\\w+$)"],
+      "static": ["match(^[0-9a-fA-F]{2}(:[0-9a-fA-F]{2}){5}(\\s+\\w+)*$)"]
+    },
+    "blacklist": ["match(^[0-9a-fA-F]{2}(:[0-9a-fA-F]{2}){5}$)"]
   }
 }
