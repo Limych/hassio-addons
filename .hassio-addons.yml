@@ -1,0 +1,6 @@
+channel: stable
+addons:
+  presence-monitor:
+    repository: Limych/addon-presence-monitor
+    target: presence-monitor
+    image: limych/hassio-presence-monitor-{arch}
