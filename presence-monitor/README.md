@@ -19,6 +19,26 @@ You can combine add-on and common versions of this presence monitor script in an
 [Click here for the full documentation][docs]
 
 
+## WARNING! THIS IS AN EDGE VERSION!
+
+This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
+add-ons are based upon the latest development version.
+
+- They may not work at all.
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+- Developers.
+
+If you are more interested in stable releases of our add-ons:
+
+<https://github.com/Limych/hassio-addons>
+
+
 [docs]: https://github.com/Limych/addon-presence-monitor/blob/master/README.md
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-yellow.svg
 <!-- [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg -->

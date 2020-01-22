@@ -1,1 +1,1 @@
-- Bump version
+- Add Idea workspace to commits
