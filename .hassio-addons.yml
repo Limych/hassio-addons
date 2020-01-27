@@ -4,3 +4,4 @@ addons:
     repository: Limych/addon-presence-monitor
     target: presence-monitor
     image: limych/hassio-presence-monitor-{arch}
+    channels: stable, edge
