@@ -78,10 +78,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-presence-monitor]: https://github.com/Limych/addon-presence-monitor/tree/87f4a0a
-[addon-doc-presence-monitor]: https://github.com/Limych/addon-presence-monitor/blob/87f4a0a/README.md
+[addon-presence-monitor]: https://github.com/Limych/addon-presence-monitor/tree/74be7fc
+[addon-doc-presence-monitor]: https://github.com/Limych/addon-presence-monitor/blob/74be7fc/README.md
 [presence-monitor-issue]: https://github.com/Limych/addon-presence-monitor/issues
-[presence-monitor-version-shield]: https://img.shields.io/badge/version-v0.3.3-blue.svg
+[presence-monitor-version-shield]: https://img.shields.io/badge/version-v0.3.4-blue.svg
 [presence-monitor-pulls-shield]: https://img.shields.io/docker/pulls/limych/hassio-presence-monitor-armhf.svg
 [presence-monitor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [presence-monitor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
