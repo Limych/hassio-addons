@@ -40,6 +40,20 @@ Passive Bluetooth presence detection of beacons, cell phones, and other Bluetoot
 
 [:books: Bluetooth Presence Monitor add-on documentation][addon-doc-presence-monitor]
 
+### &#10003; [Bluetooth Presence Monitor (edge)][addon-presence-monitor-edge]
+
+![Latest Version][presence-monitor-edge-version-shield]
+![Supports armhf Architecture][presence-monitor-edge-armhf-shield]
+![Supports armv7 Architecture][presence-monitor-edge-armv7-shield]
+![Supports aarch64 Architecture][presence-monitor-edge-aarch64-shield]
+![Supports amd64 Architecture][presence-monitor-edge-amd64-shield]
+![Supports i386 Architecture][presence-monitor-edge-i386-shield]
+![Docker Pulls][presence-monitor-edge-pulls-shield]
+
+Passive Bluetooth presence detection of beacons, cell phones, and other Bluetooth devices.
+
+[:books: Bluetooth Presence Monitor (edge) add-on documentation][addon-doc-presence-monitor-edge]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -61,6 +75,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Bluetooth Presence Monitor][presence-monitor-issue]
+- [Open an issue for the add-on: Bluetooth Presence Monitor (edge)][presence-monitor-edge-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -98,6 +113,16 @@ SOFTWARE.
 [presence-monitor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [presence-monitor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [presence-monitor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/tree/3d0aa0b
+[addon-doc-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/blob/3d0aa0b/README.md
+[presence-monitor-edge-issue]: https://github.com/Limych/addon-presence-monitor/issues
+[presence-monitor-edge-version-shield]: https://img.shields.io/badge/version-3d0aa0b-blue.svg
+[presence-monitor-edge-pulls-shield]: https://img.shields.io/docker/pulls/limych/hassio-presence-monitor-armhf.svg
+[presence-monitor-edge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[presence-monitor-edge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[presence-monitor-edge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[presence-monitor-edge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[presence-monitor-edge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io?u=limych
 [issue]: https://github.com/Limych/hassio-addons/issues
