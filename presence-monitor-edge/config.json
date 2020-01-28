@@ -1,6 +1,6 @@
 {
   "name": "Bluetooth Presence Monitor (edge)",
-  "version": "38e7a43",
+  "version": "0.3.6",
   "slug": "presence_monitor__edge",
   "description": "Passive Bluetooth presence detection of beacons, cell phones, and other Bluetooth devices.",
   "url": "https://github.com/Limych/addon-presence-monitor",
