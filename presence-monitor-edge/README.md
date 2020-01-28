@@ -23,9 +23,7 @@ This release was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
-
-<https://github.com/Limych/hassio-addons>
+For common purposes please install stable release of add-on.
 
 
 ## About
@@ -38,8 +36,8 @@ You can combine add-on and common versions of this presence monitor script in an
 [Click here for the full documentation][docs]
 
 
-[docs]: https://github.com/Limych/addon-presence-monitor/blob/369fbd8/README.md
+[docs]: https://github.com/Limych/addon-presence-monitor/blob/61434ed/README.md
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-yellow.svg
 <!-- [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg -->
-[release-shield]: https://img.shields.io/badge/version-369fbd8-blue.svg
-[release]: https://github.com/Limych/addon-presence-monitor/tree/369fbd8
+[release-shield]: https://img.shields.io/badge/version-61434ed-blue.svg
+[release]: https://github.com/Limych/addon-presence-monitor/tree/61434ed
