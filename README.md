@@ -113,10 +113,10 @@ SOFTWARE.
 [presence-monitor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [presence-monitor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [presence-monitor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/tree/v0.3.5
-[addon-doc-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/blob/v0.3.5/README.md
+[addon-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/tree/38e7a43
+[addon-doc-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/blob/38e7a43/README.md
 [presence-monitor-edge-issue]: https://github.com/Limych/addon-presence-monitor/issues
-[presence-monitor-edge-version-shield]: https://img.shields.io/badge/version-v0.3.5-blue.svg
+[presence-monitor-edge-version-shield]: https://img.shields.io/badge/version-38e7a43-blue.svg
 [presence-monitor-edge-pulls-shield]: https://img.shields.io/docker/pulls/limych/hassio-presence-monitor-armhf.svg
 [presence-monitor-edge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [presence-monitor-edge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
