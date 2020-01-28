@@ -1,1 +1,1 @@
-- Add Idea workspace to commits
+- Fix Dockerfile

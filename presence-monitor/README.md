@@ -1,13 +1,14 @@
 # Bluetooth Presence Monitor
 
-[![GitHub Release][releases-shield]][releases]
+[![GitHub Release][release-shield]][release]
 ![Project Stage][project-stage-shield]
-![Project Maintenance](https://img.shields.io/badge/maintainer-Andrey%20Khrolenok%20%40Limych-blue.svg?style=popout)
+![Project Maintenance](https://img.shields.io/badge/maintainer-Andrey%20Khrolenok%20%40Limych-blue.svg)
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Limych/addon-presence-monitor?style=popout)](https://github.com/Limych/addon-presence-monitor/pulls)
 [![Bugs](https://img.shields.io/github/issues/Limych/addon-presence-monitor/bug.svg?colorB=red&label=bugs&style=popout)](https://github.com/Limych/addon-presence-monitor/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 Passive Bluetooth presence detection of beacons, cell phones, and other Bluetooth devices.
+
 
 ## About
 
@@ -19,8 +20,8 @@ You can combine add-on and common versions of this presence monitor script in an
 [Click here for the full documentation][docs]
 
 
-[docs]: https://github.com/Limych/addon-presence-monitor/blob/master/README.md
+[docs]: https://github.com/Limych/addon-presence-monitor/blob/v0.3.5/README.md
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-yellow.svg
 <!-- [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg -->
-[releases-shield]: https://img.shields.io/github/release/Limych/addon-presence-monitor.svg
-[releases]: https://github.com/Limych/addon-presence-monitor/releases
+[release-shield]: https://img.shields.io/badge/version-v0.3.5-blue.svg
+[release]: https://github.com/Limych/addon-presence-monitor/tree/v0.3.5
