@@ -4,6 +4,16 @@
 ![Project Maintenance](https://img.shields.io/badge/maintainer-Andrey%20Khrolenok%20%40Limych-blue.svg)
 [![License][license-shield]](LICENSE)
 
+## About
+
+Hass.io allows anyone to create add-on repositories to share their add-ons for
+Hass.io easily. This repository is one of those repositories, providing extra
+Home Assistant add-ons for your Hass.io installation.
+
+The primary goal of this project is to provide you (as a Hass.io /
+Home Assistant user) with additional, high quality, add-ons that allow you to
+take your automated home to the next level.
+
 ## Installation
 
 Adding this add-ons repository to your Hass.io Home Assistant instance is
@@ -78,10 +88,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-presence-monitor]: https://github.com/Limych/addon-presence-monitor/tree/74be7fc
-[addon-doc-presence-monitor]: https://github.com/Limych/addon-presence-monitor/blob/74be7fc/README.md
+[addon-presence-monitor]: https://github.com/Limych/addon-presence-monitor/tree/v0.3.3
+[addon-doc-presence-monitor]: https://github.com/Limych/addon-presence-monitor/blob/v0.3.3/README.md
 [presence-monitor-issue]: https://github.com/Limych/addon-presence-monitor/issues
-[presence-monitor-version-shield]: https://img.shields.io/badge/version-v0.3.4-blue.svg
+[presence-monitor-version-shield]: https://img.shields.io/badge/version-v0.3.3-blue.svg
 [presence-monitor-pulls-shield]: https://img.shields.io/docker/pulls/limych/hassio-presence-monitor-armhf.svg
 [presence-monitor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [presence-monitor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
@@ -92,6 +102,6 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io?u=limych
 [issue]: https://github.com/Limych/hassio-addons/issues
 [license-shield]: https://img.shields.io/github/license/Limych/hassio-addons.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
 [third-party-addons]: https://www.home-assistant.io/hassio/installing_third_party_addons/
