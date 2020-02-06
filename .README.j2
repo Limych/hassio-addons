@@ -39,7 +39,8 @@ website of Home Assistant, and use the following URL:
 
 {{ addon.description }}
 
-[:books: {{ addon.name }} add-on documentation][addon-doc-{{ addon.target }}]
+* [:open_file_folder: {{ addon.name }} add-on files tree][addon-tree-{{ addon.target }}]
+* [:books: {{ addon.name }} add-on documentation][addon-doc-{{ addon.target }}]
 
 {% endfor %}
 ## Releases
@@ -93,11 +94,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 {% for addon in addons %}
-[addon-{{ addon.target }}]: {{ addon.repo }}/tree/{{ addon.version }}
+[addon-{{ addon.target }}]: {{ repo }}/tree/master/{{ addon.target }}
+[addon-tree-{{ addon.target }}]: {{ addon.repo }}/tree/{{ addon.version }}
 [addon-doc-{{ addon.target}}]: {{ addon.repo }}/blob/{{ addon.version }}/README.md
 [{{ addon.target }}-issue]: {{ addon.repo }}/issues
 [{{ addon.target }}-version-shield]: https://img.shields.io/badge/version-{{ addon.version }}-blue.svg
-{% for arch in ['armhf', 'amd64', 'i386', 'armv7', 'aarch64'] %}
+{% for arch in ['armv7', 'amd64', 'aarch64', 'armhf', 'i386'] %}
 {% if arch in addon.archs %}
 [{{ addon.target }}-pulls-shield]: https://img.shields.io/docker/pulls/{{ addon.images[arch] }}.svg
 {% break %}
