@@ -52,7 +52,7 @@ I put a lot of work into making this repo and component available and updated to
 [Click here for the full documentation][docs]
 
 
-[docs]: https://github.com/Limych/addon-presence-monitor/blob/3940db0/README.md
+[docs]: https://github.com/Limych/addon-presence-monitor/blob/8b27737/README.md
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-3940db0-blue.svg
-[release]: https://github.com/Limych/addon-presence-monitor/tree/3940db0
+[release-shield]: https://img.shields.io/badge/version-8b27737-blue.svg
+[release]: https://github.com/Limych/addon-presence-monitor/tree/8b27737
