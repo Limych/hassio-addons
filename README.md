@@ -105,7 +105,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-presence-monitor]: https://github.com/Limych/hassio-addons/tree/master/presence-monitor
+[addon-presence-monitor]: https://github.com/Limych/hassio-addons/tree/master/presence-monitor/README.md
 [addon-tree-presence-monitor]: https://github.com/Limych/addon-presence-monitor/tree/v1.0.0
 [addon-doc-presence-monitor]: https://github.com/Limych/addon-presence-monitor/blob/v1.0.0/README.md
 [presence-monitor-issue]: https://github.com/Limych/addon-presence-monitor/issues
@@ -116,7 +116,7 @@ SOFTWARE.
 [presence-monitor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [presence-monitor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [presence-monitor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-presence-monitor-edge]: https://github.com/Limych/hassio-addons/tree/master/presence-monitor-edge
+[addon-presence-monitor-edge]: https://github.com/Limych/hassio-addons/tree/master/presence-monitor-edge/README.md
 [addon-tree-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/tree/3940db0
 [addon-doc-presence-monitor-edge]: https://github.com/Limych/addon-presence-monitor/blob/3940db0/README.md
 [presence-monitor-edge-issue]: https://github.com/Limych/addon-presence-monitor/issues
