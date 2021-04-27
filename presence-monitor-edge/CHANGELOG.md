@@ -1,1 +1,1 @@
-- Convert main application to service.
+- Update settings for no-response application

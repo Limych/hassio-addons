@@ -49,10 +49,10 @@ I put a lot of work into making this repo and component available and updated to
 16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts</a>
 </p>
 
-[Click here for the full documentation][docs]
+[:books: Read the full add-on documentation][docs]
 
 
-[docs]: https://github.com/Limych/addon-presence-monitor/blob/8b27737/README.md
+[docs]: https://github.com/Limych/addon-presence-monitor/blob/5e75061/presence-monitor/DOCS.md
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-8b27737-blue.svg
-[release]: https://github.com/Limych/addon-presence-monitor/tree/8b27737
+[release-shield]: https://img.shields.io/badge/version-5e75061-blue.svg
+[release]: https://github.com/Limych/addon-presence-monitor/tree/5e75061
